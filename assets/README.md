@@ -4,7 +4,8 @@
 
 
 ---
-###### https://github.com/takagotch/svg/blob/master/first/README.md
+###### svg 書き出し、メモ帳開く https://github.com/takagotch/svg/blob/master/first/README.md
+
 ###### SVG to Canvas to PNG
 https://hi0a.com/demo/-svg/svg-to-canvas-to-png/
 
